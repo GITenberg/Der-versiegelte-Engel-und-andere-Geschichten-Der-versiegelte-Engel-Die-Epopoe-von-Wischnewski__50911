@@ -1,4 +1,5 @@
 _repo: Der-versiegelte-Engel-und-andere-Geschichten-Der-versiegelte-Engel-Die-Epopoe-von-Wischnewski__50911
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Eliasberg, Alexander
@@ -7,12 +8,17 @@ contributor:
     deathdate: 1924
     gutenberg_agent_id: '38223'
     url: http://www.gutenberg.org/2009/agents/38223
+covers:
+- cover_type: archival
+  image_path: 50911-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Leskow, Nikolai
     gutenberg_agent_id: '46139'
     url: http://www.gutenberg.org/2009/agents/46139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50911#Der-versiegelte-Engel-und-andere-Geschichten-Der-versiegelte-Engel-Die-Epopoe-von-Wischnewski_
 gutenberg_issued: '2016-01-13'
 gutenberg_type: Text
 identifiers:
